@@ -71,3 +71,10 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://nicoledominguez.com/portfolio/">http://nicoledominguez.com/portfolio/</a>
 * <a href="http://www.roxannecook.com/">http://www.roxannecook.com/</a>
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
+
+Performance Fixes
+1. Set media to print for print style sheet for index.html, project-webperf.html, project-2048.html, and project-mobile.html.
+2. Added https: to the google fonts link for all html pages.
+3. Moved layout call of scrollTop out of for loop for updatePositions function.
+4. Deleted determineDx function which causes force synchronous layout by setting newwidth using percent not pixels.
+5. Added async tags to analytics script tags.
