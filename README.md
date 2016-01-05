@@ -78,3 +78,17 @@ Performance Fixes
 3. Moved layout call of scrollTop out of for loop for updatePositions function.
 4. Deleted determineDx function which causes force synchronous layout by setting newwidth using percent not pixels.
 5. Added async tags to analytics script tags.
+6. Stored randomPizCont.length outside of for loop in into randomPizContLength for function changePizzaSizes.
+7. Stored times.length outside of for loop in variable itemsLength for function updatePositions.
+8. Moved randomPizzas selector call to variable pizzasDiv out of for loop.
+9. Declared phase variable outside of for loop for updatePositions function.
+10. Declared elem outside of for loop.
+11. Moved document.querySelector("#movingPizzas1") outside of for loop and stored it in variable movingPizzas.
+12. Reduced number of moving pizzas by 24 to 176.
+13. Replaced querySelectorAll with getElementById and getElementsByClassName when appropriate.
+14. moved javascript script tags to bottom of html in index.html
+
+How to Use Application
+1. Run index.html in a browser
+2. Click on the links to look at the different projects in portfolio
+3. The pizza project changes background when you slide up and down and changes pizzas when you slide bar
