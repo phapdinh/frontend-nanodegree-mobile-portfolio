@@ -87,6 +87,8 @@ Performance Fixes
 12. Reduced number of moving pizzas by 24 to 176.
 13. Replaced querySelectorAll with getElementById and getElementsByClassName when appropriate.
 14. moved javascript script tags to bottom of html in index.html
+15. Converted jpg images to gif images in both index
+16. Converted pizzeria jpg image to gif
 
 How to Use Application
 1. Run index.html in a browser
