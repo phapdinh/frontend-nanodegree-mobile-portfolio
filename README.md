@@ -89,6 +89,7 @@ Performance Fixes
 14. moved javascript script tags to bottom of html in index.html
 15. Converted jpg images to gif images in both index
 16. Converted pizzeria jpg image to gif
+17. Inlined CSS
 
 How to Use Application
 1. Run index.html in a browser
