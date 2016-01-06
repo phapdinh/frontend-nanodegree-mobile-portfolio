@@ -84,12 +84,13 @@ Performance Fixes
 9. Declared phase variable outside of for loop for updatePositions function.
 10. Declared elem outside of for loop.
 11. Moved document.querySelector("#movingPizzas1") outside of for loop and stored it in variable movingPizzas.
-12. Reduced number of moving pizzas by 24 to 176.
+12. Reduced number of moving pizzas to 24 pizzas.
 13. Replaced querySelectorAll with getElementById and getElementsByClassName when appropriate.
 14. moved javascript script tags to bottom of html in index.html
-15. Converted jpg images to gif images in both index
+15. Converted jpg images to gif images in index image folder.
 16. Converted pizzeria jpg image to gif
-17. Inlined CSS
+17. Inlined CSS and removed CSS link
+18. Moved google font into javascript file at bottom
 
 How to Use Application
 1. Run index.html in a browser
