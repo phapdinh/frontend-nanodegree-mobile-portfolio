@@ -91,7 +91,7 @@ Performance Fixes
 16. Inlined CSS and removed CSS link.
 17. Moved google font into javascript file at bottom.
 18. Added will-change:transform and transform:translateZ(0) to .mover class.
-19 Resized pizzeria image to 717 x 538 and compressed the image to 105 kb using compressor.io
+19 Resized pizzeria image to 100 x 75 and compressed the image to 105 kb using compressor.io
 
 How to Use Application
 1. Run index.html in a browser
