@@ -88,9 +88,10 @@ Performance Fixes
 13. Replaced querySelectorAll with getElementById and getElementsByClassName when appropriate.
 14. moved javascript script tags to bottom of html in index.html
 15. Converted jpg images to gif images in index image folder.
-16. Converted pizzeria jpg image to gif
-17. Inlined CSS and removed CSS link
-18. Moved google font into javascript file at bottom
+16. Converted pizzeria jpg image to gif.
+17. Inlined CSS and removed CSS link.
+18. Moved google font into javascript file at bottom.
+19. Added will-change:transform and transform:translateZ(0) to .mover class.
 
 How to Use Application
 1. Run index.html in a browser
