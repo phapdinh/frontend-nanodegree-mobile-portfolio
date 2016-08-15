@@ -74,23 +74,41 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 
 Performance Fixes
 1. Set media to print for print style sheet for index.html, project-webperf.html, project-2048.html, and project-mobile.html.
+
 2. Added https: to the google fonts link for all html pages.
+
 3. Moved layout call of scrollTop out of for loop for updatePositions function.
+
 4. Deleted determineDx function which causes force synchronous layout by setting newwidth using percent not pixels.
+
 5. Added async tags to analytics script tags.
+
 6. Stored randomPizCont.length outside of for loop in into randomPizContLength for function changePizzaSizes.
+
 7. Stored times.length outside of for loop in variable itemsLength for function updatePositions.
+
 8. Moved randomPizzas selector call to variable pizzasDiv out of for loop.
+
 9. Declared phase variable outside of for loop for updatePositions function.
+
 10. Declared elem outside of for loop.
+
 11. Moved document.querySelector("#movingPizzas1") outside of for loop and stored it in variable movingPizzas.
+
 12. Reduced number of moving pizzas to 24 pizzas.
+
 13. Replaced querySelectorAll with getElementById and getElementsByClassName when appropriate.
+
 14. moved javascript script tags to bottom of html in index.html
+
 15. Converted jpg images to gif images in index image folder.
+
 16. Inlined CSS and removed CSS link.
+
 17. Moved google font into javascript file at bottom.
+
 18. Added will-change:transform and transform:translateZ(0) to .mover class.
+
 19 Resized pizzeria image to 100 x 75 and compressed the image to 105 kb using compressor.io
 
 How to Use Application
