@@ -73,6 +73,7 @@ Feeling uninspired by the portfolio? Here's a list of cool portfolios I found af
 * <a href="http://www.84colors.com/portfolio.html">http://www.84colors.com/portfolio.html</a>
 
 Performance Fixes
+
 1. Set media to print for print style sheet for index.html, project-webperf.html, project-2048.html, and project-mobile.html.
 
 2. Added https: to the google fonts link for all html pages.
@@ -112,6 +113,7 @@ Performance Fixes
 19. Resized pizzeria image to 100 x 75 and compressed the image to 105 kb using compressor.io.
 
 How to Use Application
+
 1. Run index.html in a browser
 
 2. Click on the links to look at the different projects in portfolio
