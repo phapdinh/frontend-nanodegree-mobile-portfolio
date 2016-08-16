@@ -113,5 +113,7 @@ Performance Fixes
 
 How to Use Application
 1. Run index.html in a browser
+
 2. Click on the links to look at the different projects in portfolio
+
 3. The pizza project changes background when you slide up and down and changes pizzas when you slide bar
