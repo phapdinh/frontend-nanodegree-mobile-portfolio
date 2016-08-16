@@ -99,7 +99,7 @@ Performance Fixes
 
 13. Replaced querySelectorAll with getElementById and getElementsByClassName when appropriate.
 
-14. moved javascript script tags to bottom of html in index.html
+14. moved javascript script tags to bottom of html in index.html.
 
 15. Converted jpg images to gif images in index image folder.
 
@@ -109,7 +109,7 @@ Performance Fixes
 
 18. Added will-change:transform and transform:translateZ(0) to .mover class.
 
-19 Resized pizzeria image to 100 x 75 and compressed the image to 105 kb using compressor.io
+19 Resized pizzeria image to 100 x 75 and compressed the image to 105 kb using compressor.io.
 
 How to Use Application
 1. Run index.html in a browser
